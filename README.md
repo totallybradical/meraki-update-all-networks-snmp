@@ -49,11 +49,11 @@ The following commands are executed in the terminal.
 
 3. Clone this repository
 
-        $ git clone [add_link_to_repository_here]
+        $ git clone https://github.com/totallybradical/meraki-update-all-networks-snmp.git
 
-4. Access the folder `gve_devnet_template_network_removal`
+4. Access the folder `meraki-update-all-networks-snmp`
 
-        $ cd gve_devnet_template_network_removal
+        $ cd gmeraki-update-all-networks-snmp
 
 5. Install the dependencies:
 
@@ -62,4 +62,6 @@ The following commands are executed in the terminal.
 ## Setup
 1. Now it is time to launch the application! Simply type in the following command in your terminal:
 
-    $ python app.py
+    $ python change_snmp_across_org.py
+
+2. Follow the prompts (API key, org selection, SNMP parameters) to execute
