@@ -35,18 +35,18 @@ The following commands are executed in the terminal.
 1. Create and activate a virtual environment for the project:
    
         # WINDOWS:
-        $ py -3 -m venv [add_name_of_virtual_environment_here] 
-        $ source [add_name_of_virtual_environment_here]/Scripts/activate
-        
+        $ py -3 -m venv meraki-virtualenv
+        $ source meraki-virtualenv/Scripts/activate
+
         # MAC:
-        $ python3 -m venv [add_name_of_virtual_environment_here] 
-        $ source [add_name_of_virtual_environment_here]/bin/activate
+        $ python3 -m venv meraki-virtualenv
+        $ source meraki-virtualenv/bin/activate
         
 > For more information about virtual environments, please click [here](https://docs.python.org/3/tutorial/venv.html)
 
 2. Access the created virtual environment folder
 
-        $ cd [add_name_of_virtual_environment_here]
+        $ cd meraki-virtualenv
 
 3. Clone this repository
 
