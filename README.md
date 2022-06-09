@@ -1,9 +1,5 @@
-# GVE DevNet Meraki Network VLAN/Firewall/VPN Configuration 
-This prototype automates the configuration of a Meraki network's VLAN lay-out, firewall rules, and site-to-site VPN setup based on a user-submitted spreadheet of network settings - bringing network configuration overhead down from hours to seconds.
-
-## High-level Overview
-
-![/internaldocs.png](/INTERNALDOCS/overview.png) 
+# Meraki: Update Network-wide SNMP Settings Across All Networks in an Organization
+This prototype automates the updating of all SNMP configurations on all networks within an organization. It utilizes the Meraki Dashboard API to accomplish this at scale.
 
 ## Contacts
 * Bradford Ingersoll (bingerso@cisco.com)
