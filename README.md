@@ -37,6 +37,7 @@ The following commands are executed in the terminal.
         # WINDOWS:
         $ py -3 -m venv [add_name_of_virtual_environment_here] 
         $ source [add_name_of_virtual_environment_here]/Scripts/activate
+        
         # MAC:
         $ python3 -m venv [add_name_of_virtual_environment_here] 
         $ source [add_name_of_virtual_environment_here]/bin/activate
