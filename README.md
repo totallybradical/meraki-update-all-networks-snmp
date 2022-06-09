@@ -62,6 +62,6 @@ The following commands are executed in the terminal.
 ## Setup
 1. Now it is time to launch the application! Simply type in the following command in your terminal:
 
-    $ python change_snmp_across_org.py
+        $ python change_snmp_across_org.py
 
 2. Follow the prompts (API key, org selection, SNMP parameters) to execute
