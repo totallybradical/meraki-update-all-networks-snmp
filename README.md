@@ -54,7 +54,7 @@ The following commands are executed in the terminal.
 
 4. Access the folder `meraki-update-all-networks-snmp`
 
-        $ cd gmeraki-update-all-networks-snmp
+        $ cd meraki-update-all-networks-snmp
 
 5. Install the dependencies:
 
